@@ -135,6 +135,9 @@ button {
 
 /* Mobile Screen */
 @media (max-width: 830px) {
+    body{
+    overflow:hidden;
+    }
     .navigation {
         position: absolute;
         top: 65px;
